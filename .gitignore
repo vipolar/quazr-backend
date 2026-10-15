@@ -1,5 +1,8 @@
 HELP.md
+
+.m2/
 target/
+/src/main/resources/watcherTrigger.txt
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
